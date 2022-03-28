@@ -27,7 +27,7 @@ sbt sbt version
 
 #### 1. Clone the project.
 ```bash
-git clone https://github.com/akashkr17/UT-IT-assign.git
+git clone https://github.com/ajstyles0524/Scala_assignment.git
 ```
 
 #### 2. Compile the code 
